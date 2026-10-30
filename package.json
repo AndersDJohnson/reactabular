@@ -67,7 +67,7 @@
     "title-case": "^1.1.1",
     "url-loader": "^0.5.6",
     "webpack": "^1.12.2",
-    "webpack-dev-server": "^1.11.0",
+    "webpack-dev-server": "^6.1.0",
     "xtend": "^4.0.0"
   },
   "peerDependencies": {
