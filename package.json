@@ -50,7 +50,7 @@
     "html-loader": "^0.3.0",
     "html-webpack-plugin": "^1.6.1",
     "jest-cli": "^0.5.7",
-    "lodash": "^3.10.1",
+    "lodash": "^4.18.1",
     "marked": "^0.3.5",
     "node-libs-browser": "^0.5.3",
     "plexus-form": "^0.1.3",
